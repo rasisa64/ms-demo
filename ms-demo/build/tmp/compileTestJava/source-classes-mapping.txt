@@ -1,0 +1,2 @@
+pe/edu/galaxy/training/java/spring/boot/ms/demo/MSDemoApplicationTests.java
+ pe.edu.galaxy.training.java.spring.boot.ms.demo.MSDemoApplicationTests
